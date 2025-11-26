@@ -48,7 +48,7 @@
                 </div>
                 <div class="dropdown-divider m-0"></div>
                 <a href="#" class="dropdown-item" data-action="app-reset">Reset Layout</a>
-                <a href="#" class="dropdown-item" data-toggle="modal" data-target=".js-modal-settings">Settings</a>
+                <a href="#" class="dropdown-item" data-toggle="modal" data-target=".js-modal-settings">Theme Settings</a>
                 <div class="dropdown-divider m-0"></div>
                 <a href="#" class="dropdown-item" data-action="app-fullscreen">Fullscreen<i class="float-right text-muted fw-n">F11</i></a>
                 <a href="#" class="dropdown-item" data-action="app-print">Print<i class="float-right text-muted fw-n">Ctrl + P</i></a>
