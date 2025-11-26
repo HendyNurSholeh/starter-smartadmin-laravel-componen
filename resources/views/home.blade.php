@@ -1,5 +1,4 @@
 <x-admin-layout title="Responsive - Datatables - SmartAdmin v4.5.1" :pageTitle="'DataTables: <span class=\'fw-300\'><i>Responsive</i></span> <sup class=\'badge badge-primary fw-500\'>ADDON</sup>'" breadcrumb1="SmartAdmin" breadcrumb2="Datatables" breadcrumb3="Responsive">
-
     <x-slot name="styles">
         <link rel="stylesheet" media="screen, print" href="/assets/smartadmin/css/datagrid/datatables/datatables.bundle.css">
     </x-slot>
