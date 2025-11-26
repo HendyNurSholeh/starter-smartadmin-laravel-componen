@@ -12,6 +12,120 @@
              </div>
              <div class="modal-body p-0">
                  <div class="settings-panel">
+                     <div class="mt-4 d-table w-100 pl-5 pr-3">
+                         <div class="d-table-cell align-middle">
+                             <h5 class="p-0 pr-2 d-flex">
+                                 Theme colors
+                                 <a href="#" class="ml-auto fw-400 fs-xs" data-toggle="popover" data-trigger="focus" data-placement="top" title="" data-html="true" data-content="The settings below uses <code>localStorage</code> to load the external <strong>CSS</strong> file as an overlap to the base css. Due to network latency and <strong>CPU utilization</strong>, you may experience a brief flickering effect on page load which may show the intial applied theme for a split second. Setting the prefered style/theme in the header will prevent this from happening." data-original-title="<span class='text-primary'><i class='fal fa-exclamation-triangle mr-1'></i> Heads up!</span>" data-template="<div class=&quot;popover bg-white border-white&quot; role=&quot;tooltip&quot;><div class=&quot;arrow&quot;></div><h3 class=&quot;popover-header bg-transparent&quot;></h3><div class=&quot;popover-body fs-xs&quot;></div></div>"><i class="fal fa-info-circle mr-1"></i> more info</a>
+                             </h5>
+                         </div>
+                     </div>
+                     <div class="expanded theme-colors pl-5 pr-3">
+                         <ul class="m-0">
+                             <li>
+                                 <a href="#" id="myapp-0" data-action="theme-update" data-themesave data-theme="" data-toggle="tooltip" data-placement="top" title="Wisteria (base css)" data-original-title="Wisteria (base css)"></a>
+                             </li>
+                             <li>
+                                 <a href="#" id="myapp-1" data-action="theme-update" data-themesave data-theme="/assets/smartadmin/css/themes/cust-theme-1.css" data-toggle="tooltip" data-placement="top" title="Tapestry" data-original-title="Tapestry"></a>
+                             </li>
+                             <li>
+                                 <a href="#" id="myapp-2" data-action="theme-update" data-themesave data-theme="/assets/smartadmin/css/themes/cust-theme-2.css" data-toggle="tooltip" data-placement="top" title="Atlantis" data-original-title="Atlantis"></a>
+                             </li>
+                             <li>
+                                 <a href="#" id="myapp-3" data-action="theme-update" data-themesave data-theme="/assets/smartadmin/css/themes/cust-theme-3.css" data-toggle="tooltip" data-placement="top" title="Indigo" data-original-title="Indigo"></a>
+                             </li>
+                             <li>
+                                 <a href="#" id="myapp-4" data-action="theme-update" data-themesave data-theme="/assets/smartadmin/css/themes/cust-theme-4.css" data-toggle="tooltip" data-placement="top" title="Dodger Blue" data-original-title="Dodger Blue"></a>
+                             </li>
+                             <li>
+                                 <a href="#" id="myapp-5" data-action="theme-update" data-themesave data-theme="/assets/smartadmin/css/themes/cust-theme-5.css" data-toggle="tooltip" data-placement="top" title="Tradewind" data-original-title="Tradewind"></a>
+                             </li>
+                             <li>
+                                 <a href="#" id="myapp-6" data-action="theme-update" data-themesave data-theme="/assets/smartadmin/css/themes/cust-theme-6.css" data-toggle="tooltip" data-placement="top" title="Cranberry" data-original-title="Cranberry"></a>
+                             </li>
+                             <li>
+                                 <a href="#" id="myapp-7" data-action="theme-update" data-themesave data-theme="/assets/smartadmin/css/themes/cust-theme-7.css" data-toggle="tooltip" data-placement="top" title="Oslo Gray" data-original-title="Oslo Gray"></a>
+                             </li>
+                             <li>
+                                 <a href="#" id="myapp-8" data-action="theme-update" data-themesave data-theme="/assets/smartadmin/css/themes/cust-theme-8.css" data-toggle="tooltip" data-placement="top" title="Chetwode Blue" data-original-title="Chetwode Blue"></a>
+                             </li>
+                             <li>
+                                 <a href="#" id="myapp-9" data-action="theme-update" data-themesave data-theme="/assets/smartadmin/css/themes/cust-theme-9.css" data-toggle="tooltip" data-placement="top" title="Apricot" data-original-title="Apricot"></a>
+                             </li>
+                             <li>
+                                 <a href="#" id="myapp-10" data-action="theme-update" data-themesave data-theme="/assets/smartadmin/css/themes/cust-theme-10.css" data-toggle="tooltip" data-placement="top" title="Blue Smoke" data-original-title="Blue Smoke"></a>
+                             </li>
+                             <li>
+                                 <a href="#" id="myapp-11" data-action="theme-update" data-themesave data-theme="/assets/smartadmin/css/themes/cust-theme-11.css" data-toggle="tooltip" data-placement="top" title="Green Smoke" data-original-title="Green Smoke"></a>
+                             </li>
+                             <li>
+                                 <a href="#" id="myapp-12" data-action="theme-update" data-themesave data-theme="/assets/smartadmin/css/themes/cust-theme-12.css" data-toggle="tooltip" data-placement="top" title="Wild Blue Yonder" data-original-title="Wild Blue Yonder"></a>
+                             </li>
+                             <li>
+                                 <a href="#" id="myapp-13" data-action="theme-update" data-themesave data-theme="/assets/smartadmin/css/themes/cust-theme-13.css" data-toggle="tooltip" data-placement="top" title="Emerald" data-original-title="Emerald"></a>
+                             </li>
+                             <li>
+                                 <a href="#" id="myapp-14" data-action="theme-update" data-themesave data-theme="/assets/smartadmin/css/themes/cust-theme-14.css" data-toggle="tooltip" data-placement="top" title="Supernova" data-original-title="Supernova"></a>
+                             </li>
+                             <li>
+                                 <a href="#" id="myapp-15" data-action="theme-update" data-themesave data-theme="/assets/smartadmin/css/themes/cust-theme-15.css" data-toggle="tooltip" data-placement="top" title="Hoki" data-original-title="Hoki"></a>
+                             </li>
+                         </ul>
+                     </div>
+                     <hr class="mb-0 mt-4">
+                     <div class="mt-4 d-table w-100 pl-5 pr-3">
+                         <div class="d-table-cell align-middle">
+                             <h5 class="p-0 pr-2 d-flex">
+                                 Theme Modes (beta)
+                                 <a href="#" class="ml-auto fw-400 fs-xs" data-toggle="popover" data-trigger="focus" data-placement="top" title="" data-html="true" data-content="This is a brand new technique we are introducing which uses CSS variables to infiltrate color options. While this has been working nicely on modern browsers without much issues, some users <strong>may still face issues on Internet Explorer </strong>. Until these issues are resolved or Internet Explorer improves, this feature will remain in Beta" data-original-title="<span class='text-primary'><i class='fal fa-question-circle mr-1'></i> Why beta?</span>" data-template="<div class=&quot;popover bg-white border-white&quot; role=&quot;tooltip&quot;><div class=&quot;arrow&quot;></div><h3 class=&quot;popover-header bg-transparent&quot;></h3><div class=&quot;popover-body fs-xs&quot;></div></div>"><i class="fal fa-question-circle mr-1"></i> why beta?</a>
+                             </h5>
+                         </div>
+                     </div>
+                     <div class="pl-5 pr-3 py-3">
+                         <div class="ie-only alert alert-warning d-none">
+                             <h6>Internet Explorer Issue</h6>
+                             This particular component may not work as expected in Internet Explorer. Please use with caution.
+                         </div>
+                         <div class="row no-gutters">
+                             <div class="col-4 pr-2 text-center">
+                                 <div id="skin-default" data-action="toggle-replace" data-replaceclass="mod-skin-light mod-skin-dark" data-class="" data-toggle="tooltip" data-placement="top" title="" class="d-flex bg-white border border-primary rounded overflow-hidden text-success js-waves-on" data-original-title="Default Mode" style="height: 80px">
+                                     <div class="bg-primary-600 bg-primary-gradient px-2 pt-0 border-right border-primary"></div>
+                                     <div class="d-flex flex-column flex-1">
+                                         <div class="bg-white border-bottom border-primary py-1"></div>
+                                         <div class="bg-faded flex-1 pt-3 pb-3 px-2">
+                                             <div class="py-3" style="background:url('assets/smartadmin/img/demo/s-1.png') top left no-repeat;background-size: 100%;"></div>
+                                         </div>
+                                     </div>
+                                 </div>
+                                 Default
+                             </div>
+                             <div class="col-4 px-1 text-center">
+                                 <div id="skin-light" data-action="toggle-replace" data-replaceclass="mod-skin-dark" data-class="mod-skin-light" data-toggle="tooltip" data-placement="top" title="" class="d-flex bg-white border border-secondary rounded overflow-hidden text-success js-waves-on" data-original-title="Light Mode" style="height: 80px">
+                                     <div class="bg-white px-2 pt-0 border-right border-"></div>
+                                     <div class="d-flex flex-column flex-1">
+                                         <div class="bg-white border-bottom border- py-1"></div>
+                                         <div class="bg-white flex-1 pt-3 pb-3 px-2">
+                                             <div class="py-3" style="background:url('assets/smartadmin/img/demo/s-1.png') top left no-repeat;background-size: 100%;"></div>
+                                         </div>
+                                     </div>
+                                 </div>
+                                 Light
+                             </div>
+                             <div class="col-4 pl-2 text-center">
+                                 <div id="skin-dark" data-action="toggle-replace" data-replaceclass="mod-skin-light" data-class="mod-skin-dark" data-toggle="tooltip" data-placement="top" title="" class="d-flex bg-white border border-dark rounded overflow-hidden text-success js-waves-on" data-original-title="Dark Mode" style="height: 80px">
+                                     <div class="bg-fusion-500 px-2 pt-0 border-right"></div>
+                                     <div class="d-flex flex-column flex-1">
+                                         <div class="bg-fusion-600 border-bottom py-1"></div>
+                                         <div class="bg-fusion-300 flex-1 pt-3 pb-3 px-2">
+                                             <div class="py-3 opacity-30" style="background:url('assets/smartadmin/img/demo/s-1.png') top left no-repeat;background-size: 100%;"></div>
+                                         </div>
+                                     </div>
+                                 </div>
+                                 Dark
+                             </div>
+                         </div>
+                     </div>
+                     <hr class="mb-0 mt-4">
                      <div class="mt-4 d-table w-100 px-5">
                          <div class="d-table-cell align-middle">
                              <h5 class="p-0">
@@ -200,120 +314,7 @@
                              values (resets on page refresh)</span>
                      </div>
                      <hr class="mb-0 mt-4">
-                     <div class="mt-4 d-table w-100 pl-5 pr-3">
-                         <div class="d-table-cell align-middle">
-                             <h5 class="p-0 pr-2 d-flex">
-                                 Theme colors
-                                 <a href="#" class="ml-auto fw-400 fs-xs" data-toggle="popover" data-trigger="focus" data-placement="top" title="" data-html="true" data-content="The settings below uses <code>localStorage</code> to load the external <strong>CSS</strong> file as an overlap to the base css. Due to network latency and <strong>CPU utilization</strong>, you may experience a brief flickering effect on page load which may show the intial applied theme for a split second. Setting the prefered style/theme in the header will prevent this from happening." data-original-title="<span class='text-primary'><i class='fal fa-exclamation-triangle mr-1'></i> Heads up!</span>" data-template="<div class=&quot;popover bg-white border-white&quot; role=&quot;tooltip&quot;><div class=&quot;arrow&quot;></div><h3 class=&quot;popover-header bg-transparent&quot;></h3><div class=&quot;popover-body fs-xs&quot;></div></div>"><i class="fal fa-info-circle mr-1"></i> more info</a>
-                             </h5>
-                         </div>
-                     </div>
-                     <div class="expanded theme-colors pl-5 pr-3">
-                         <ul class="m-0">
-                             <li>
-                                 <a href="#" id="myapp-0" data-action="theme-update" data-themesave data-theme="" data-toggle="tooltip" data-placement="top" title="Wisteria (base css)" data-original-title="Wisteria (base css)"></a>
-                             </li>
-                             <li>
-                                 <a href="#" id="myapp-1" data-action="theme-update" data-themesave data-theme="/assets/smartadmin/css/themes/cust-theme-1.css" data-toggle="tooltip" data-placement="top" title="Tapestry" data-original-title="Tapestry"></a>
-                             </li>
-                             <li>
-                                 <a href="#" id="myapp-2" data-action="theme-update" data-themesave data-theme="/assets/smartadmin/css/themes/cust-theme-2.css" data-toggle="tooltip" data-placement="top" title="Atlantis" data-original-title="Atlantis"></a>
-                             </li>
-                             <li>
-                                 <a href="#" id="myapp-3" data-action="theme-update" data-themesave data-theme="/assets/smartadmin/css/themes/cust-theme-3.css" data-toggle="tooltip" data-placement="top" title="Indigo" data-original-title="Indigo"></a>
-                             </li>
-                             <li>
-                                 <a href="#" id="myapp-4" data-action="theme-update" data-themesave data-theme="/assets/smartadmin/css/themes/cust-theme-4.css" data-toggle="tooltip" data-placement="top" title="Dodger Blue" data-original-title="Dodger Blue"></a>
-                             </li>
-                             <li>
-                                 <a href="#" id="myapp-5" data-action="theme-update" data-themesave data-theme="/assets/smartadmin/css/themes/cust-theme-5.css" data-toggle="tooltip" data-placement="top" title="Tradewind" data-original-title="Tradewind"></a>
-                             </li>
-                             <li>
-                                 <a href="#" id="myapp-6" data-action="theme-update" data-themesave data-theme="/assets/smartadmin/css/themes/cust-theme-6.css" data-toggle="tooltip" data-placement="top" title="Cranberry" data-original-title="Cranberry"></a>
-                             </li>
-                             <li>
-                                 <a href="#" id="myapp-7" data-action="theme-update" data-themesave data-theme="/assets/smartadmin/css/themes/cust-theme-7.css" data-toggle="tooltip" data-placement="top" title="Oslo Gray" data-original-title="Oslo Gray"></a>
-                             </li>
-                             <li>
-                                 <a href="#" id="myapp-8" data-action="theme-update" data-themesave data-theme="/assets/smartadmin/css/themes/cust-theme-8.css" data-toggle="tooltip" data-placement="top" title="Chetwode Blue" data-original-title="Chetwode Blue"></a>
-                             </li>
-                             <li>
-                                 <a href="#" id="myapp-9" data-action="theme-update" data-themesave data-theme="/assets/smartadmin/css/themes/cust-theme-9.css" data-toggle="tooltip" data-placement="top" title="Apricot" data-original-title="Apricot"></a>
-                             </li>
-                             <li>
-                                 <a href="#" id="myapp-10" data-action="theme-update" data-themesave data-theme="/assets/smartadmin/css/themes/cust-theme-10.css" data-toggle="tooltip" data-placement="top" title="Blue Smoke" data-original-title="Blue Smoke"></a>
-                             </li>
-                             <li>
-                                 <a href="#" id="myapp-11" data-action="theme-update" data-themesave data-theme="/assets/smartadmin/css/themes/cust-theme-11.css" data-toggle="tooltip" data-placement="top" title="Green Smoke" data-original-title="Green Smoke"></a>
-                             </li>
-                             <li>
-                                 <a href="#" id="myapp-12" data-action="theme-update" data-themesave data-theme="/assets/smartadmin/css/themes/cust-theme-12.css" data-toggle="tooltip" data-placement="top" title="Wild Blue Yonder" data-original-title="Wild Blue Yonder"></a>
-                             </li>
-                             <li>
-                                 <a href="#" id="myapp-13" data-action="theme-update" data-themesave data-theme="/assets/smartadmin/css/themes/cust-theme-13.css" data-toggle="tooltip" data-placement="top" title="Emerald" data-original-title="Emerald"></a>
-                             </li>
-                             <li>
-                                 <a href="#" id="myapp-14" data-action="theme-update" data-themesave data-theme="/assets/smartadmin/css/themes/cust-theme-14.css" data-toggle="tooltip" data-placement="top" title="Supernova" data-original-title="Supernova"></a>
-                             </li>
-                             <li>
-                                 <a href="#" id="myapp-15" data-action="theme-update" data-themesave data-theme="/assets/smartadmin/css/themes/cust-theme-15.css" data-toggle="tooltip" data-placement="top" title="Hoki" data-original-title="Hoki"></a>
-                             </li>
-                         </ul>
-                     </div>
-                     <hr class="mb-0 mt-4">
-                     <div class="mt-4 d-table w-100 pl-5 pr-3">
-                         <div class="d-table-cell align-middle">
-                             <h5 class="p-0 pr-2 d-flex">
-                                 Theme Modes (beta)
-                                 <a href="#" class="ml-auto fw-400 fs-xs" data-toggle="popover" data-trigger="focus" data-placement="top" title="" data-html="true" data-content="This is a brand new technique we are introducing which uses CSS variables to infiltrate color options. While this has been working nicely on modern browsers without much issues, some users <strong>may still face issues on Internet Explorer </strong>. Until these issues are resolved or Internet Explorer improves, this feature will remain in Beta" data-original-title="<span class='text-primary'><i class='fal fa-question-circle mr-1'></i> Why beta?</span>" data-template="<div class=&quot;popover bg-white border-white&quot; role=&quot;tooltip&quot;><div class=&quot;arrow&quot;></div><h3 class=&quot;popover-header bg-transparent&quot;></h3><div class=&quot;popover-body fs-xs&quot;></div></div>"><i class="fal fa-question-circle mr-1"></i> why beta?</a>
-                             </h5>
-                         </div>
-                     </div>
-                     <div class="pl-5 pr-3 py-3">
-                         <div class="ie-only alert alert-warning d-none">
-                             <h6>Internet Explorer Issue</h6>
-                             This particular component may not work as expected in Internet Explorer. Please use with caution.
-                         </div>
-                         <div class="row no-gutters">
-                             <div class="col-4 pr-2 text-center">
-                                 <div id="skin-default" data-action="toggle-replace" data-replaceclass="mod-skin-light mod-skin-dark" data-class="" data-toggle="tooltip" data-placement="top" title="" class="d-flex bg-white border border-primary rounded overflow-hidden text-success js-waves-on" data-original-title="Default Mode" style="height: 80px">
-                                     <div class="bg-primary-600 bg-primary-gradient px-2 pt-0 border-right border-primary"></div>
-                                     <div class="d-flex flex-column flex-1">
-                                         <div class="bg-white border-bottom border-primary py-1"></div>
-                                         <div class="bg-faded flex-1 pt-3 pb-3 px-2">
-                                             <div class="py-3" style="background:url('assets/smartadmin/img/demo/s-1.png') top left no-repeat;background-size: 100%;"></div>
-                                         </div>
-                                     </div>
-                                 </div>
-                                 Default
-                             </div>
-                             <div class="col-4 px-1 text-center">
-                                 <div id="skin-light" data-action="toggle-replace" data-replaceclass="mod-skin-dark" data-class="mod-skin-light" data-toggle="tooltip" data-placement="top" title="" class="d-flex bg-white border border-secondary rounded overflow-hidden text-success js-waves-on" data-original-title="Light Mode" style="height: 80px">
-                                     <div class="bg-white px-2 pt-0 border-right border-"></div>
-                                     <div class="d-flex flex-column flex-1">
-                                         <div class="bg-white border-bottom border- py-1"></div>
-                                         <div class="bg-white flex-1 pt-3 pb-3 px-2">
-                                             <div class="py-3" style="background:url('assets/smartadmin/img/demo/s-1.png') top left no-repeat;background-size: 100%;"></div>
-                                         </div>
-                                     </div>
-                                 </div>
-                                 Light
-                             </div>
-                             <div class="col-4 pl-2 text-center">
-                                 <div id="skin-dark" data-action="toggle-replace" data-replaceclass="mod-skin-light" data-class="mod-skin-dark" data-toggle="tooltip" data-placement="top" title="" class="d-flex bg-white border border-dark rounded overflow-hidden text-success js-waves-on" data-original-title="Dark Mode" style="height: 80px">
-                                     <div class="bg-fusion-500 px-2 pt-0 border-right"></div>
-                                     <div class="d-flex flex-column flex-1">
-                                         <div class="bg-fusion-600 border-bottom py-1"></div>
-                                         <div class="bg-fusion-300 flex-1 pt-3 pb-3 px-2">
-                                             <div class="py-3 opacity-30" style="background:url('assets/smartadmin/img/demo/s-1.png') top left no-repeat;background-size: 100%;"></div>
-                                         </div>
-                                     </div>
-                                 </div>
-                                 Dark
-                             </div>
-                         </div>
-                     </div>
-                     <hr class="mb-0 mt-4">
+                    
                      <div class="pl-5 pr-3 py-3 bg-faded">
                          <div class="row no-gutters">
                              <div class="col-6 pr-1">
