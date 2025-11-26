@@ -16,7 +16,6 @@
                          <div class="d-table-cell align-middle">
                              <h5 class="p-0 pr-2 d-flex">
                                  Theme colors
-                                 <a href="#" class="ml-auto fw-400 fs-xs" data-toggle="popover" data-trigger="focus" data-placement="top" title="" data-html="true" data-content="The settings below uses <code>localStorage</code> to load the external <strong>CSS</strong> file as an overlap to the base css. Due to network latency and <strong>CPU utilization</strong>, you may experience a brief flickering effect on page load which may show the intial applied theme for a split second. Setting the prefered style/theme in the header will prevent this from happening." data-original-title="<span class='text-primary'><i class='fal fa-exclamation-triangle mr-1'></i> Heads up!</span>" data-template="<div class=&quot;popover bg-white border-white&quot; role=&quot;tooltip&quot;><div class=&quot;arrow&quot;></div><h3 class=&quot;popover-header bg-transparent&quot;></h3><div class=&quot;popover-body fs-xs&quot;></div></div>"><i class="fal fa-info-circle mr-1"></i> more info</a>
                              </h5>
                          </div>
                      </div>
@@ -77,7 +76,6 @@
                          <div class="d-table-cell align-middle">
                              <h5 class="p-0 pr-2 d-flex">
                                  Theme Modes (beta)
-                                 <a href="#" class="ml-auto fw-400 fs-xs" data-toggle="popover" data-trigger="focus" data-placement="top" title="" data-html="true" data-content="This is a brand new technique we are introducing which uses CSS variables to infiltrate color options. While this has been working nicely on modern browsers without much issues, some users <strong>may still face issues on Internet Explorer </strong>. Until these issues are resolved or Internet Explorer improves, this feature will remain in Beta" data-original-title="<span class='text-primary'><i class='fal fa-question-circle mr-1'></i> Why beta?</span>" data-template="<div class=&quot;popover bg-white border-white&quot; role=&quot;tooltip&quot;><div class=&quot;arrow&quot;></div><h3 class=&quot;popover-header bg-transparent&quot;></h3><div class=&quot;popover-body fs-xs&quot;></div></div>"><i class="fal fa-question-circle mr-1"></i> why beta?</a>
                              </h5>
                          </div>
                      </div>
@@ -191,13 +189,6 @@
                              <span class="onoffswitch-title">Fixed Background</span>
                          </div>
                      </div>
-                     <div class="mt-4 d-table w-100 px-5">
-                         <div class="d-table-cell align-middle">
-                             <h5 class="p-0">
-                                 Mobile Menu
-                             </h5>
-                         </div>
-                     </div>
                      <div class="list" id="nmp">
                          <a href="#" onclick="return false;" class="btn btn-switch" data-action="toggle" data-class="nav-mobile-push"></a>
                          <span class="onoffswitch-title">Push Content</span>
@@ -212,38 +203,6 @@
                          <a href="#" onclick="return false;" class="btn btn-switch" data-action="toggle" data-class="nav-mobile-slide-out"></a>
                          <span class="onoffswitch-title">Off-Canvas <sup>(beta)</sup></span>
                          <span class="onoffswitch-title-desc">Content overlaps menu</span>
-                     </div>
-                     <div class="mt-4 d-table w-100 px-5">
-                         <div class="d-table-cell align-middle">
-                             <h5 class="p-0">
-                                 Accessibility
-                             </h5>
-                         </div>
-                     </div>
-                     <div class="list" id="mbf">
-                         <a href="#" onclick="return false;" class="btn btn-switch" data-action="toggle" data-class="mod-bigger-font"></a>
-                         <span class="onoffswitch-title">Bigger Content Font</span>
-                         <span class="onoffswitch-title-desc">content fonts are bigger for readability</span>
-                     </div>
-                     <div class="list" id="mhc">
-                         <a href="#" onclick="return false;" class="btn btn-switch" data-action="toggle" data-class="mod-high-contrast"></a>
-                         <span class="onoffswitch-title">High Contrast Text (WCAG 2 AA)</span>
-                         <span class="onoffswitch-title-desc">4.5:1 text contrast ratio</span>
-                     </div>
-                     <div class="list" id="mcb">
-                         <a href="#" onclick="return false;" class="btn btn-switch" data-action="toggle" data-class="mod-color-blind"></a>
-                         <span class="onoffswitch-title">Daltonism <sup>(beta)</sup> </span>
-                         <span class="onoffswitch-title-desc">color vision deficiency</span>
-                     </div>
-                     <div class="list" id="mpc">
-                         <a href="#" onclick="return false;" class="btn btn-switch" data-action="toggle" data-class="mod-pace-custom"></a>
-                         <span class="onoffswitch-title">Preloader Inside</span>
-                         <span class="onoffswitch-title-desc">preloader will be inside content</span>
-                     </div>
-                     <div class="list" id="mpi">
-                         <a href="#" onclick="return false;" class="btn btn-switch" data-action="toggle" data-class="mod-panel-icon"></a>
-                         <span class="onoffswitch-title">SmartPanel Icons (not Panels)</span>
-                         <span class="onoffswitch-title-desc">smartpanel buttons will appear as icons</span>
                      </div>
                      <div class="mt-4 d-table w-100 px-5">
                          <div class="d-table-cell align-middle">
